@@ -24,4 +24,4 @@ runs:
      -name: fetch the number' square
      id: get-square
      run: python scr/get_num_square.py
-     shell:bash
+     shell: bash
